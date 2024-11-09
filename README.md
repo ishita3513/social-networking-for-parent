@@ -1,4 +1,7 @@
 
+This README structure provides a clear design for storing social circle data, managing parent interactions within circles, and evolving the schema for future requirements.
+
+
 ---
 
 # Social Network for Parents
@@ -243,5 +246,3 @@ def discover_circles():
 ```
 
 --- 
-
-This README structure provides a clear design for storing social circle data, managing parent interactions within circles, and evolving the schema for future requirements.
