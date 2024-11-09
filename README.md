@@ -1,4 +1,4 @@
-
+This is a simple overview and design for the given problem statement.
 This README structure provides a clear design for storing social circle data, managing parent interactions within circles, and evolving the schema for future requirements.
 
 
