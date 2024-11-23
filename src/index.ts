@@ -35,13 +35,7 @@ app.use(
       await connectDB();
       app.listen(process.env.PORT, () => {
         console.log(`Application is running on port ${process.env.PORT}`);
-      });
-  
-      app.use("*", (req: Request, res: Response) => {
-       console.log(`Can't find ${req.originalUrl} on the server!`);
-      });
-  
-     
+      });    
     } catch (error) {
       console.log(error);
     }
